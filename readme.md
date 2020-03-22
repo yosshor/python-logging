@@ -17,4 +17,4 @@ specifically, we gonna use ```logging``` module
     python src/main.py --verbosity debug --inputs data/lorem.txt
 
     # set verbose log file
-    python src/main.py --log-file app.log --inputs data/lorem.txt
+    python src/main.py --log-file app.log --inputs data/lorem.txt# python-logging
